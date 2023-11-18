@@ -23,7 +23,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    min-height: 80vh;
+    min-height: 60vh;
     width: 80vh;
     max-width: 600px;
     background-color: white;
